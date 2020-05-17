@@ -1,0 +1,11 @@
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.exe
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.deps.json
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.runtimeconfig.json
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.runtimeconfig.dev.json
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.dll
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\bin\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.pdb
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\obj\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.csprojAssemblyReference.cache
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\obj\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.AssemblyInfoInputs.cache
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\obj\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.AssemblyInfo.cs
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\obj\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.dll
+C:\Users\abrep\Desktop\laptop\ONT 4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\ONT4101 Assignment 1 test 2\obj\Debug\netcoreapp3.1\ONT4101 Assignment 1 test 2.pdb
